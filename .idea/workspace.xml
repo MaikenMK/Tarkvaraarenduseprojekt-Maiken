@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48c1841e-9f8b-4027-beb9-e4c042fc07f3" name="Changes" comment="Ülesanne 3">
-      <change afterPath="$PROJECT_DIR$/Ülessanne 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ülessanne 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.Ülessanne 2.executor": "Run",
     "Python.Ülessanne 3.executor": "Run",
     "Python.Ülessanne 4.executor": "Run",
+    "Python.Ülessanne 5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -106,7 +107,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1743001665821</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Ülesanne 3">
+      <option name="closed" value="true" />
+      <created>1743573600484</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1743573600484</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
